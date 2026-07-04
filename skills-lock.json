@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "vue": {
+      "source": "uni-helper/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vue/SKILL.md",
+      "computedHash": "021e75c0287b21fec6b3a5077d9a70065cfbf6f81d38266dbe8c974fb282db76"
+    }
+  }
+}

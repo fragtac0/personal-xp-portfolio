@@ -71,7 +71,7 @@ window.addEventListener('click', (e) => {
         :class="{ active: entity.isActive }"
       >
         <img
-          class="w-11 h-11"
+          class="w-22 h-22"
           :style="{
             ...entity.imageStyle,
             filter: entity.isActive ? 'opacity(0.5)' : 'opacity(1)'
@@ -80,7 +80,7 @@ window.addEventListener('click', (e) => {
           :alt="getLocalizedTitle(entity)"
         />
         <p
-          class="text-white text-xs font-normal py-px px-1"
+          class="text-white text-xs font-normal py-px px-1 "
           :style="{
             ...entity.textStyle,
             backgroundColor: entity.isActive ? '#0B61FF' : 'transparent',

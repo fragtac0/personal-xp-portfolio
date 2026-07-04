@@ -30,9 +30,9 @@ const startLoading = () => {
         // Step 4: Show connection lobby
         showStep3.value = false
         showStep4.value = true
-      }, 2000)
-    }, 8000)
-  }, 2000)
+      }, 1000)
+    }, 4000)
+  }, 1000)
 }
 
 onMounted(() => {
