@@ -1,0 +1,126 @@
+{
+  "categories": [
+    {
+      "name": {
+        "en": "Creative Services",
+        "fr": "Creative Services"
+      },
+      "services": [
+        {
+          "name": {
+            "en": "Motion Graphics & Animation",
+            "fr": "Motion Graphics & Animation"
+          },
+          "description": {
+            "en": "Animated graphics that bring your brand to life — logo stings, title cards, kinetic typography and UI/UX motion.",
+            "fr": "Animated graphics that bring your brand to life — logo stings, title cards, kinetic typography and UI/UX motion."
+          },
+          "icon": "services/portfolio-icon-lg.webp",
+          "price": "On request",
+          "duration": {
+            "en": "1-3 weeks",
+            "fr": "1-3 weeks"
+          },
+          "features": {
+            "en": [
+              "Custom motion design built around your brand and goals",
+              "Logo animations, intros, outros and lower thirds",
+              "Kinetic typography and animated titles",
+              "Social-ready stickers, transitions and motion assets",
+              "Sound design and music sync",
+              "Delivery in any format and aspect ratio you need",
+              "Source files and reusable templates on request",
+              "Up to 2-3 rounds of revisions"
+            ],
+            "fr": [
+              "Custom motion design built around your brand and goals",
+              "Logo animations, intros, outros and lower thirds",
+              "Kinetic typography and animated titles",
+              "Social-ready stickers, transitions and motion assets",
+              "Sound design and music sync",
+              "Delivery in any format and aspect ratio you need",
+              "Source files and reusable templates on request",
+              "Up to 2-3 rounds of revisions"
+            ]
+          }
+        },
+        {
+          "name": {
+            "en": "Explainer & Promo Videos",
+            "fr": "Explainer & Promo Videos"
+          },
+          "description": {
+            "en": "Concept-to-delivery explainer and product videos that make complex ideas click in under 90 seconds.",
+            "fr": "Concept-to-delivery explainer and product videos that make complex ideas click in under 90 seconds."
+          },
+          "icon": "services/business-website-icon-lg.webp",
+          "price": "On request",
+          "duration": {
+            "en": "2-4 weeks",
+            "fr": "2-4 weeks"
+          },
+          "features": {
+            "en": [
+              "Scriptwriting and storyboarding from your brief",
+              "Voiceover direction and casting guidance",
+              "Custom illustration or motion-graphics style",
+              "Animation, sound design and background music",
+              "Product, app or service walkthroughs",
+              "Optimised cuts for web, social and presentations",
+              "Captions and localisation-ready exports",
+              "Up to 2-3 rounds of revisions"
+            ],
+            "fr": [
+              "Scriptwriting and storyboarding from your brief",
+              "Voiceover direction and casting guidance",
+              "Custom illustration or motion-graphics style",
+              "Animation, sound design and background music",
+              "Product, app or service walkthroughs",
+              "Optimised cuts for web, social and presentations",
+              "Captions and localisation-ready exports",
+              "Up to 2-3 rounds of revisions"
+            ]
+          }
+        },
+        {
+          "name": {
+            "en": "Short & Long-Form Content Editing",
+            "fr": "Short & Long-Form Content Editing"
+          },
+          "description": {
+            "en": "Reels, Shorts, YouTube long-form and podcast edits — paced, captioned and tuned for each platform.",
+            "fr": "Reels, Shorts, YouTube long-form and podcast edits — paced, captioned and tuned for each platform."
+          },
+          "icon": "services/automation-icon-lg.webp",
+          "price": "On request",
+          "duration": {
+            "en": "3-7 days",
+            "fr": "3-7 days"
+          },
+          "features": {
+            "en": [
+              "Reels, Shorts and TikToks edited for retention",
+              "Long-form YouTube and podcast editing",
+              "Hook-first pacing and storytelling structure",
+              "Animated captions, B-roll and motion overlays",
+              "Colour correction and audio cleanup",
+              "Thumbnail support and platform-ready exports",
+              "Content-strategy input on hooks, formats and cadence",
+              "Fast turnaround for ongoing creators"
+            ],
+            "fr": [
+              "Reels, Shorts and TikToks edited for retention",
+              "Long-form YouTube and podcast editing",
+              "Hook-first pacing and storytelling structure",
+              "Animated captions, B-roll and motion overlays",
+              "Colour correction and audio cleanup",
+              "Thumbnail support and platform-ready exports",
+              "Content-strategy input on hooks, formats and cadence",
+              "Fast turnaround for ongoing creators"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
